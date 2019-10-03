@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "math_for_lu/1.0.0": {
+        "runtime": {
+          "math_for_lu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "math_for_lu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

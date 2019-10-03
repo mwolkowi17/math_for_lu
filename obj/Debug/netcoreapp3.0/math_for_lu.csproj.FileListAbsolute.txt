@@ -1,0 +1,11 @@
+C:\Users\Marcin\source\repos\math_for_lu\bin\Debug\netcoreapp3.0\math_for_lu.exe
+C:\Users\Marcin\source\repos\math_for_lu\bin\Debug\netcoreapp3.0\math_for_lu.deps.json
+C:\Users\Marcin\source\repos\math_for_lu\bin\Debug\netcoreapp3.0\math_for_lu.runtimeconfig.json
+C:\Users\Marcin\source\repos\math_for_lu\bin\Debug\netcoreapp3.0\math_for_lu.runtimeconfig.dev.json
+C:\Users\Marcin\source\repos\math_for_lu\bin\Debug\netcoreapp3.0\math_for_lu.dll
+C:\Users\Marcin\source\repos\math_for_lu\bin\Debug\netcoreapp3.0\math_for_lu.pdb
+C:\Users\Marcin\source\repos\math_for_lu\obj\Debug\netcoreapp3.0\math_for_lu.csprojAssemblyReference.cache
+C:\Users\Marcin\source\repos\math_for_lu\obj\Debug\netcoreapp3.0\math_for_lu.AssemblyInfoInputs.cache
+C:\Users\Marcin\source\repos\math_for_lu\obj\Debug\netcoreapp3.0\math_for_lu.AssemblyInfo.cs
+C:\Users\Marcin\source\repos\math_for_lu\obj\Debug\netcoreapp3.0\math_for_lu.dll
+C:\Users\Marcin\source\repos\math_for_lu\obj\Debug\netcoreapp3.0\math_for_lu.pdb
